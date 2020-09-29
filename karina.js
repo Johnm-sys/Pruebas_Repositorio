@@ -1,3 +1,4 @@
+
 let fruits = ['apple', 'Banana'] // Array of fruits
 let newfruit = fruits.push("orange") // variable cambia = arrays.PUSH("nombre valor") ==>> Add of array fruits a new fruit 
     //fruits.forEach(fruit => console.log(fruit))     // loop over array fruits and print in screen
@@ -20,3 +21,13 @@ let ArregloCopia = fruits.slice() // Variable = Arreglo.SLICE() ==>> Hace una co
 let arreglo = fruits
 
 arreglo.forEach(fruit => console.log(fruit))
+console.log("holamundo")
+
+a = 1
+b = 2
+
+copnsole.log(a + b)
+c = a + b
+console.log(c)
+
+
